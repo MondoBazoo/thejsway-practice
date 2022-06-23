@@ -1,2 +1,1 @@
 # thejsway-practice
-# thejsway-practice
